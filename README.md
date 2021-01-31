@@ -20,4 +20,5 @@ training set as gestures of a particular type.
 
 ## Normalization Results
 
+![mountain_car](Linear Acceleration Plots.png)
 ![Normalized Acceleration Data](Linear Acceleration Plots.png)
