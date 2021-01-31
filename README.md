@@ -20,4 +20,4 @@ training set as gestures of a particular type.
 
 ## Normalization Results
 
-![Normalized Acceleration Data](Linear Acceleration Plots.png)
+![Normalized Acceleration Data](Linear_Acceleration_Plots.png)
